@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @GGabb07
-- 👀 I’m interested in Pkmn, MC & Java
-- 🌱 I’m currently learning libGDX
+# About me:
 
-<!---
-GGabb07/GGabb07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My name is Gabriele but I usually sign as Gabbo online
+- I like coding graphics engine for fun after school
+- I usually use rust (I also used Java a lot of time ago...)
+- I like Eminem's songs
